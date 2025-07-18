@@ -18,7 +18,7 @@
   <h2>🛠️ My Skillset</h2>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vite,jquery,java,mysql,git,vscode,vercel" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vite,jquery,java,mysql,git,vscode,vercel,github" alt="My Skills"/>
     </p>
 
   
