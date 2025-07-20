@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there 👋, I'm Pratik Sulakshane!</h1>
+  <h1>Hi there 👋, I'm Pratik Sulakshane</h1>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=70&fontColor=auto&animation=twinkling&stroke=auto&strokeWidth=2" alt="Header Image"/>
 
